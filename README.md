@@ -46,3 +46,8 @@ The dataset has a mixture of data types - one integer column (release_year) and 
 ![Screenshot (98)](https://github.com/NamiraMujawar/NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING/assets/120715329/cfcfdfb9-80f8-416a-b86c-f48edad73fca)
 
 
+#**Project Summary -**
+---
+This project analyzed Netflix's content dataset of TV shows and movies from 2019. It revealed a diverse content range, with more movies than TV shows. TV-MA was the preferred TV show rating, and content additions peaked from October to January. Documentaries, Standup Comedy, and Drama were prominent genres, and Kids TV stood out for TV shows. The K Means algorithm identified 28 optimal content clusters. The United States had the most content, and India emerged as a significant source. Approximately 30% of movies were Netflix originals. These insights can guide content curation and enhance understanding of audience preferences, enabling Netflix to provide a diverse and engaging viewing experience for its global users.
+
+
