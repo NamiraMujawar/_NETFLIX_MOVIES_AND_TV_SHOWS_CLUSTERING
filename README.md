@@ -1,6 +1,7 @@
 # _NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING
 
-![images (1)](https://github.com/NamiraMujawar/_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING/assets/120715329/dba2fdb1-b33c-4e95-8abe-8ba31dc58cdb)
+![images (1) (1) (1)](https://github.com/NamiraMujawar/_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING/assets/120715329/74b111c8-4a14-4755-a227-2d4809159911)
+
 
 
 
