@@ -43,3 +43,6 @@ The dataset contains a total of 7,787 rows and 12 columns. Here is the informati
 The dataset has a mixture of data types - one integer column (release_year) and eleven object columns (strings). Some columns have missing values, such as director, cast, country, date_added, and rating. The memory usage for this dataset is approximately 730.2 KB.
 
 
+![Screenshot (98)](https://github.com/NamiraMujawar/NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING/assets/120715329/cfcfdfb9-80f8-416a-b86c-f48edad73fca)
+
+
